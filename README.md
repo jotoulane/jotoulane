@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![jotoulane's GitHub stats](https://github-readme-stats.vercel.app/api?username=jotoulane&hide=contribs,prs)
+![jotoulane's GitHub stats](https://github-readme-stats.vercel.app/api?username=jotoulane&&show_icons=true&theme=dark)
